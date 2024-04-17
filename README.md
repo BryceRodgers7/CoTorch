@@ -4,11 +4,11 @@
 
 MyFirstColab - my actual first google colab, since I learned to use google colab to follow along with many ML and NLP learning-content. 
 
-brizzleStarterNN - a simple Neural Network using the iris-dataset?
+brizzleStarterNN - a simple Neural Network using PyTorch? and the iris-dataset?
 
-BrizzleCNN - a simple CNN model for iris-dataset
+BrizzleCNN - a simple CNN model using PyTorch? and the iris-dataset
 
-BrizzleKNN - a simple KNN model for iris-dataset
+BrizzleKNN - a simple KNN model using PyTorch? and the iris-dataset
 
 DuneBookTopics - a thorough investigation of Dune books 1-3 displaying NLP techniques including preprocessing, TF-IDF analysis, LDA, KMeans, and more?
 
